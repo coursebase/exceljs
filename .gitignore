@@ -66,3 +66,11 @@ _SpecRunner.html
 
 # Ignore xlsx files generated during testing
 *.xlsx
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
